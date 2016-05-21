@@ -216,6 +216,14 @@ header {
   font-size: 16px;
 }
 
+.product-section h2 {
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.product-section p {
+  font-size: 16px;
+}
 
 /* 
  * Home
